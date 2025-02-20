@@ -10,6 +10,7 @@
     <?php echo "nancy";?>
     <?php echo "teste";?>
     <?php echo "hello there";?>
+    <?php echo "olá";?>
     
 </body>
 </html>
