@@ -13,5 +13,6 @@
     <?php echo "olá";?>
     <h1>Datatabses</h1>
     <p> teste1</p>
+    <p>teste2 </p>
 </body>
 </html>
